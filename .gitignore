@@ -1,0 +1,4 @@
+.env
+venv/
+results/
+Study_Budy_AI_WITH_LLMOPS.egg-info/

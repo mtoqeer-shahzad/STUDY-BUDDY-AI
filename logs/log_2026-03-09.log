@@ -1,0 +1,172 @@
+2026-03-09 17:32:26,234 - INFO - Generate Question for lahore and with difficulty medium
+2026-03-09 17:32:26,266 - ERROR - Error coming:Completions.create() got an unexpected keyword argument 'temprature'
+2026-03-09 17:32:26,266 - ERROR - Failed to generate MCQ : unsupported operand type(s) for -: 'Setting' and 'int'
+2026-03-09 17:34:07,753 - INFO - Generate Question for lahore and with difficulty medium
+2026-03-09 17:34:07,773 - ERROR - Error coming:Completions.create() got an unexpected keyword argument 'temprature'
+2026-03-09 17:34:07,773 - ERROR - Failed to generate MCQ : unsupported operand type(s) for -: 'Setting' and 'int'
+2026-03-09 17:38:02,674 - ERROR - Failed to generate MCQ : 'Setting' object has no attribute 'MAX_RETRIES'
+2026-03-09 17:39:09,024 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:39:09,043 - ERROR - Error coming : Completions.create() got an unexpected keyword argument 'temprature'
+2026-03-09 17:39:09,043 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:39:09,059 - ERROR - Error coming : Completions.create() got an unexpected keyword argument 'temprature'
+2026-03-09 17:39:09,059 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:39:09,059 - ERROR - Error coming : Completions.create() got an unexpected keyword argument 'temprature'
+2026-03-09 17:39:09,059 - ERROR - Failed to generate MCQ : Generation failed after 3 attempts | Error: Completions.create() got an unexpected keyword argument 'temprature' | File: D:\DJango\STUDY_BUDY_AI_SYSTEM_LLMOPS\src\generator\question_generator.py | Line: 21
+2026-03-09 17:41:27,674 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:41:27,674 - ERROR - Error coming : Completions.create() got an unexpected keyword argument 'temprature'
+2026-03-09 17:41:27,674 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:41:27,674 - ERROR - Error coming : Completions.create() got an unexpected keyword argument 'temprature'
+2026-03-09 17:41:27,674 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:41:27,674 - ERROR - Error coming : Completions.create() got an unexpected keyword argument 'temprature'
+2026-03-09 17:41:27,674 - ERROR - Failed to generate MCQ : Generation failed after 3 attempts | Error: Completions.create() got an unexpected keyword argument 'temprature' | File: D:\DJango\STUDY_BUDY_AI_SYSTEM_LLMOPS\src\generator\question_generator.py | Line: 21
+2026-03-09 17:42:35,782 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:42:35,815 - ERROR - Error coming : Completions.create() got an unexpected keyword argument 'temprature'
+2026-03-09 17:42:35,815 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:42:35,815 - ERROR - Error coming : Completions.create() got an unexpected keyword argument 'temprature'
+2026-03-09 17:42:35,815 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:42:35,815 - ERROR - Error coming : Completions.create() got an unexpected keyword argument 'temprature'
+2026-03-09 17:42:35,815 - ERROR - Failed to generate MCQ : Generation failed after 3 attempts | Error: Completions.create() got an unexpected keyword argument 'temprature' | File: D:\DJango\STUDY_BUDY_AI_SYSTEM_LLMOPS\src\generator\question_generator.py | Line: 21
+2026-03-09 17:44:25,835 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:44:27,386 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:44:27,408 - INFO - Sucesfully parsed the question
+2026-03-09 17:44:27,408 - INFO - Generated a valid MCQ Question
+2026-03-09 17:44:27,408 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:44:27,779 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:44:27,781 - INFO - Sucesfully parsed the question
+2026-03-09 17:44:27,781 - INFO - Generated a valid MCQ Question
+2026-03-09 17:44:27,781 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:44:28,100 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:44:28,101 - INFO - Sucesfully parsed the question
+2026-03-09 17:44:28,101 - INFO - Generated a valid MCQ Question
+2026-03-09 17:44:28,101 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:44:28,419 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:44:28,420 - INFO - Sucesfully parsed the question
+2026-03-09 17:44:28,421 - INFO - Generated a valid MCQ Question
+2026-03-09 17:44:28,421 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:44:28,901 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:44:28,902 - INFO - Sucesfully parsed the question
+2026-03-09 17:44:28,902 - INFO - Generated a valid MCQ Question
+2026-03-09 17:47:52,838 - INFO - Generating question for topic Python with difficulty medium
+2026-03-09 17:47:53,291 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:47:53,291 - INFO - Sucesfully parsed the question
+2026-03-09 17:47:53,291 - INFO - Generated a valid MCQ Question
+2026-03-09 17:47:53,291 - INFO - Generating question for topic Python with difficulty medium
+2026-03-09 17:47:53,587 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:47:53,587 - INFO - Sucesfully parsed the question
+2026-03-09 17:47:53,587 - INFO - Generated a valid MCQ Question
+2026-03-09 17:47:53,587 - INFO - Generating question for topic Python with difficulty medium
+2026-03-09 17:47:53,937 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:47:53,937 - INFO - Sucesfully parsed the question
+2026-03-09 17:47:53,937 - INFO - Generated a valid MCQ Question
+2026-03-09 17:47:53,937 - INFO - Generating question for topic Python with difficulty medium
+2026-03-09 17:47:54,262 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:47:54,264 - INFO - Sucesfully parsed the question
+2026-03-09 17:47:54,264 - INFO - Generated a valid MCQ Question
+2026-03-09 17:47:54,264 - INFO - Generating question for topic Python with difficulty medium
+2026-03-09 17:47:54,572 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:47:54,572 - INFO - Sucesfully parsed the question
+2026-03-09 17:47:54,572 - INFO - Generated a valid MCQ Question
+2026-03-09 17:48:10,201 - INFO - Generating question for topic Python with difficulty hard
+2026-03-09 17:48:10,817 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:48:10,817 - INFO - Sucesfully parsed the question
+2026-03-09 17:48:10,817 - INFO - Generated a valid MCQ Question
+2026-03-09 17:48:10,817 - INFO - Generating question for topic Python with difficulty hard
+2026-03-09 17:48:11,079 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:48:11,081 - INFO - Sucesfully parsed the question
+2026-03-09 17:48:11,081 - INFO - Generated a valid MCQ Question
+2026-03-09 17:48:11,081 - INFO - Generating question for topic Python with difficulty hard
+2026-03-09 17:48:11,556 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:48:11,560 - INFO - Sucesfully parsed the question
+2026-03-09 17:48:11,560 - INFO - Generated a valid MCQ Question
+2026-03-09 17:48:11,560 - INFO - Generating question for topic Python with difficulty hard
+2026-03-09 17:48:11,857 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:48:11,857 - INFO - Sucesfully parsed the question
+2026-03-09 17:48:11,857 - INFO - Generated a valid MCQ Question
+2026-03-09 17:48:11,857 - INFO - Generating question for topic Python with difficulty hard
+2026-03-09 17:48:12,238 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:48:12,241 - INFO - Sucesfully parsed the question
+2026-03-09 17:48:12,241 - INFO - Generated a valid MCQ Question
+2026-03-09 17:57:00,092 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:57:00,657 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:57:00,657 - INFO - Sucesfully parsed the question
+2026-03-09 17:57:00,657 - INFO - Generated a valid MCQ Question
+2026-03-09 17:57:00,657 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:57:00,861 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:57:00,861 - INFO - Sucesfully parsed the question
+2026-03-09 17:57:00,861 - INFO - Generated a valid MCQ Question
+2026-03-09 17:57:00,861 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:57:01,120 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:57:01,120 - INFO - Sucesfully parsed the question
+2026-03-09 17:57:01,120 - INFO - Generated a valid MCQ Question
+2026-03-09 17:57:01,120 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:57:01,463 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:57:01,466 - INFO - Sucesfully parsed the question
+2026-03-09 17:57:01,466 - INFO - Generated a valid MCQ Question
+2026-03-09 17:57:01,466 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:57:01,716 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:57:01,719 - INFO - Sucesfully parsed the question
+2026-03-09 17:57:01,720 - INFO - Generated a valid MCQ Question
+2026-03-09 17:57:01,722 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-09 17:57:01,930 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 17:57:01,930 - INFO - Sucesfully parsed the question
+2026-03-09 17:57:01,930 - INFO - Generated a valid MCQ Question
+2026-03-09 18:03:55,632 - INFO - Generating question for topic Islam with difficulty medium
+2026-03-09 18:03:56,243 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 18:03:56,266 - INFO - Sucesfully parsed the question
+2026-03-09 18:03:56,267 - INFO - Generated a valid MCQ Question
+2026-03-09 18:03:56,267 - INFO - Generating question for topic Islam with difficulty medium
+2026-03-09 18:03:56,477 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 18:03:56,477 - INFO - Sucesfully parsed the question
+2026-03-09 18:03:56,477 - INFO - Generated a valid MCQ Question
+2026-03-09 18:03:56,477 - INFO - Generating question for topic Islam with difficulty medium
+2026-03-09 18:03:56,703 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 18:03:56,703 - INFO - Sucesfully parsed the question
+2026-03-09 18:03:56,710 - INFO - Generated a valid MCQ Question
+2026-03-09 18:03:56,713 - INFO - Generating question for topic Islam with difficulty medium
+2026-03-09 18:03:56,910 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 18:03:56,917 - INFO - Sucesfully parsed the question
+2026-03-09 18:03:56,917 - INFO - Generated a valid MCQ Question
+2026-03-09 18:03:56,917 - INFO - Generating question for topic Islam with difficulty medium
+2026-03-09 18:03:57,160 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 18:03:57,160 - INFO - Sucesfully parsed the question
+2026-03-09 18:03:57,160 - INFO - Generated a valid MCQ Question
+2026-03-09 18:05:00,778 - INFO - Generating question for topic Islam with difficulty medium
+2026-03-09 18:05:01,178 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 18:05:01,180 - INFO - Sucesfully parsed the question
+2026-03-09 18:05:01,180 - INFO - Generated a valid MCQ Question
+2026-03-09 18:05:01,180 - INFO - Generating question for topic Islam with difficulty medium
+2026-03-09 18:05:01,383 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 18:05:01,385 - INFO - Sucesfully parsed the question
+2026-03-09 18:05:01,385 - INFO - Generated a valid MCQ Question
+2026-03-09 18:05:01,385 - INFO - Generating question for topic Islam with difficulty medium
+2026-03-09 18:05:01,645 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 18:05:01,645 - INFO - Sucesfully parsed the question
+2026-03-09 18:05:01,645 - INFO - Generated a valid MCQ Question
+2026-03-09 18:05:01,645 - INFO - Generating question for topic Islam with difficulty medium
+2026-03-09 18:05:01,870 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 18:05:01,870 - INFO - Sucesfully parsed the question
+2026-03-09 18:05:01,870 - INFO - Generated a valid MCQ Question
+2026-03-09 18:05:01,870 - INFO - Generating question for topic Islam with difficulty medium
+2026-03-09 18:05:02,162 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-09 18:05:02,162 - INFO - Sucesfully parsed the question
+2026-03-09 18:05:02,162 - INFO - Generated a valid MCQ Question
+2026-03-10 00:08:44,823 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-10 00:08:45,521 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-10 00:08:45,564 - INFO - Sucesfully parsed the question
+2026-03-10 00:08:45,564 - INFO - Generated a valid MCQ Question
+2026-03-10 00:08:45,564 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-10 00:08:45,751 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-10 00:08:45,765 - INFO - Sucesfully parsed the question
+2026-03-10 00:08:45,765 - INFO - Generated a valid MCQ Question
+2026-03-10 00:08:45,766 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-10 00:08:46,016 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-10 00:08:46,020 - INFO - Sucesfully parsed the question
+2026-03-10 00:08:46,020 - INFO - Generated a valid MCQ Question
+2026-03-10 00:08:46,020 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-10 00:08:46,202 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-10 00:08:46,204 - INFO - Sucesfully parsed the question
+2026-03-10 00:08:46,204 - INFO - Generated a valid MCQ Question
+2026-03-10 00:08:46,204 - INFO - Generating question for topic lahore with difficulty medium
+2026-03-10 00:08:46,412 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-10 00:08:46,416 - INFO - Sucesfully parsed the question
+2026-03-10 00:08:46,416 - INFO - Generated a valid MCQ Question
